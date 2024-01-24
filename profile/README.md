@@ -6,10 +6,10 @@ This is general jumping-off point or all things company related
 
 ## Projects
 - https://github.com/orgs/alledays/projects
-- https://github.com/alledays/corp-core/projects
+- https://github.com/alledays/.github-corp/projects
 
 ## Issues
-- https://github.com/alledays/corp-core/issues
+- https://github.com/alledays/.github-corp/issues
 
 ## Milestones
-- https://github.com/alledays/corp-core/milestones
+- https://github.com/alledays/.github-corp/milestones
