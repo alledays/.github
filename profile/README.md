@@ -33,7 +33,7 @@ View all Repositories across the organization
 - [All Repositories](https://github.com/orgs/alledays/repositories)
 
 ## DevOps
-- [DockerHub](https://hub.docker.com/orgs/alledays/repositories)
 - [FE Hosting: Vercel](https://vercel.com/alledays-dev)
 - [BE Hosting: Digital Ocean](https://cloud.digitalocean.com/projects/119f0aa6-f23c-4677-be06-223f829ebf18)
 - [BE Auth: Supabase](https://supabase.com/dashboard/projects)
+- [DockerHub](https://hub.docker.com/orgs/alledays/repositories)
