@@ -25,6 +25,7 @@ View all Activity across the organization in one place
 ## Projects
 View all Projects across the organization
 - [All Projects](https://github.com/orgs/alledays/projects)
+- [Allédays Business Planning](https://github.com/orgs/alledays/projects/5)
 - [Infra MVP](https://github.com/orgs/alledays/projects/2)
 
 ## Issues
@@ -44,3 +45,4 @@ View all Repositories across the organization
 - [BE Hosting: Digital Ocean](https://cloud.digitalocean.com/projects/119f0aa6-f23c-4677-be06-223f829ebf18)
 - [BE Auth: Supabase](https://supabase.com/dashboard/projects)
 - [DockerHub](https://hub.docker.com/orgs/alledays/repositories)
+- [Strapi CMS](https://backend-cms-an4rh.ondigitalocean.app/)
